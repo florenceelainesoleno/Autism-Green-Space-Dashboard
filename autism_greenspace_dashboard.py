@@ -3436,7 +3436,8 @@ with col1:
     rgba(232, 247, 236, 0.98) 0%,
     rgba(255, 255, 255, 0.99) 50%,
     rgba(255, 245, 204, 0.96) 100%
-);padding:28px;border-radius:22px;border:1px solid #D7E5DA;box-shadow:0 14px 32px rgba(44,62,80,0.10);border-top:5px solid #E85D75;min-height:650px;height:auto;overflow:visible;padding-bottom:60px;">
+);padding:28px;border-radius:22px;border:1px solid #D7E5DA;box-shadow:0 14px 32px rgba(44,62,80,0.10);border-top:5px solid #E85D75;min-height:650px;height:100%;
+min-height:668px;display:flex;flex-direction:column;justify-content:flex-start;overflow:visible;padding-bottom:60px;">
 <h3 style="color:#E85D75;font-size:1.55rem;font-weight:800;margin-bottom:18px;font-family:Poppins,sans-serif;">🌍 Environmental Vulnerability Patterns Across Districts</h3>
 <p style="color:#4A4A4A;font-size:15px;line-height:1.85;font-family:Poppins,Segoe UI,Arial,sans-serif;margin:0;">
 Environmental vulnerability in the dataset reflects the balance between urban exposure and environmental buffering capacity. Districts with denser road networks and higher population concentrations tend to experience greater environmental pressure, while districts with stronger green buffering and tree canopy coverage may be better protected from urban stressors.
