@@ -107,4 +107,9 @@ streamlit run app.py
 
 ---
 
-> *Data tells us what exists. Visualization helps us notice what often goes unseen.*
+## 🌐 Live Dashboard
+
+🔗 [View the Dashboard](https://student-success-and-dropout-risk-dashboard-eyh5qpuqujc9br8uces.streamlit.app/)
+
+---
+
