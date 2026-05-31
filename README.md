@@ -102,8 +102,8 @@ streamlit run app.py
 
 ## 🌱 Sustainable Development Goals
 
-❤️ **SDG 3 — Good Health and Well-being**
-🏙 **SDG 11 — Sustainable Cities and Communities**
+- ❤️ **SDG 3 — Good Health and Well-being**
+- 🏙 **SDG 11 — Sustainable Cities and Communities**
 
 ---
 
