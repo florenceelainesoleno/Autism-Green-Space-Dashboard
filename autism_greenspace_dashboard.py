@@ -1390,7 +1390,7 @@ def render_chart_card(title, subtitle, fig, insight_html, height=UNIFORM_CHART_C
         </div>
     """
     components.html(html, height=760, scrolling=False)
-    
+
 def section_header(title, subtitle):
     st.markdown(f"""
     <div class="section-card">
@@ -3436,7 +3436,7 @@ with col1:
     rgba(232, 247, 236, 0.98) 0%,
     rgba(255, 255, 255, 0.99) 50%,
     rgba(255, 245, 204, 0.96) 100%
-);padding:28px;border-radius:22px;border:1px solid #D7E5DA;box-shadow:0 14px 32px rgba(44,62,80,0.10);border-top:5px solid #E85D75;height:650px;overflow:hidden;">
+);padding:28px;border-radius:22px;border:1px solid #D7E5DA;box-shadow:0 14px 32px rgba(44,62,80,0.10);border-top:5px solid #E85D75;min-height:650px;height:auto;overflow:visible;padding-bottom:60px;">
 <h3 style="color:#E85D75;font-size:1.55rem;font-weight:800;margin-bottom:18px;font-family:Poppins,sans-serif;">🌍 Environmental Vulnerability Patterns Across Districts</h3>
 <p style="color:#4A4A4A;font-size:15px;line-height:1.85;font-family:Poppins,Segoe UI,Arial,sans-serif;margin:0;">
 Environmental vulnerability in the dataset reflects the balance between urban exposure and environmental buffering capacity. Districts with denser road networks and higher population concentrations tend to experience greater environmental pressure, while districts with stronger green buffering and tree canopy coverage may be better protected from urban stressors.
@@ -3456,7 +3456,7 @@ with col2:
     rgba(232, 247, 236, 0.98) 0%,
     rgba(255, 255, 255, 0.99) 50%,
     rgba(255, 245, 204, 0.96) 100%
-);padding:28px;border-radius:22px;border:1px solid #D7E5DA;box-shadow:0 14px 32px rgba(44,62,80,0.10);border-top:5px solid #2E8B57;height:650px;overflow:hidden;">
+);padding:28px;border-radius:22px;border:1px solid #D7E5DA;box-shadow:0 14px 32px rgba(44,62,80,0.10);border-top:5px solid #2E8B57;min-height:650px;height:auto;overflow:visible;padding-bottom:60px;">
 <h3 style="color:#2E8B57;font-size:1.55rem;font-weight:800;margin-bottom:18px;font-family:Poppins,sans-serif;">🧩 Autism Prevalence Patterns Across Districts</h3>
 <p style="color:#4A4A4A;font-size:15px;line-height:1.85;font-family:Poppins,Segoe UI,Arial,sans-serif;margin:0;">
 Autism prevalence varies across districts alongside differences in environmental and socioeconomic conditions. Districts with lower green buffering and greater road exposure often display different prevalence patterns than districts with stronger environmental protection. While these patterns do not establish causation, they reveal meaningful environmental associations.
