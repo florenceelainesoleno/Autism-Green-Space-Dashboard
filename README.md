@@ -109,7 +109,7 @@ streamlit run app.py
 
 ## 🌐 Live Dashboard
 
-🔗 [View the Dashboard](https://student-success-and-dropout-risk-dashboard-eyh5qpuqujc9br8uces.streamlit.app/)
+🔗 [View the Dashboard](https://autism-green-space-dashboard-2jbb7xayzlwqkhkzfb4zdr.streamlit.app/)
 
 ---
 
